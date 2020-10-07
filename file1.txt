@@ -1,0 +1,7 @@
+This is the beginning of my story
+the red in github desktop indicate you have deleted these lines green in github desktop indicate you have added new content
+
+More lines has been added
+combining changes from 2 files
+
+

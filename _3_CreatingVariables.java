@@ -4,7 +4,7 @@ public class _3_CreatingVariables {
 
 	public static void main(String[] args) {
 
-
+// Write some code here
 		
 		int price = 5;
 		   int quantity =14;
